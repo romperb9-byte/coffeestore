@@ -1,0 +1,6 @@
+{
+  "name": "Bean & Bloom — Coffee Shop Manager & POS",
+  "description": "Artisan coffee shop management system and POS terminal with dual USD/KHR currency, Google Sheets sync, real-time inventory, and bilingual Khmer/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
